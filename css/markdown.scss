@@ -1,0 +1,14 @@
+.markdown {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 48px 48px;
+  color: $c__black;
+
+  *, *::before, *::after {
+    color: $c__grey--d;
+  }
+
+  p {
+    color: $c__black;
+  }
+}
